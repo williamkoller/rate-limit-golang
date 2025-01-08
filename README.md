@@ -1,7 +1,4 @@
-# Rate Limit golang
-
-
-## Rate Limit is a simple and easy to use rate limiting library for golang.
+# How implement rate limiter in Go
 
 ### Structure
 
@@ -17,7 +14,7 @@
 ### Installation
 
 ```bash
-go mod tidy 
+go mod tidy
 ```
 
 ### Usage
